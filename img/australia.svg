@@ -199,12 +199,12 @@
 	l0.7,0l0.8,0.2l1.5-0.8l1.5,1.8l0,0.1l-0.8,0.3L384.9,369.4z M373.6,413.2l-0.7-0.3l-0.7,0.1l-0.6-1.2l1.9-2.4l0.7,1.8l-0.5,1.7
 	L373.6,413.2z M374.3,409.5l-0.8-1.6l0.7-1.2l0.4,0.7l0.4,1.8l0,0.2L374.3,409.5z M381.4,401.9l0-2l0.6-0.5l0.6,0l0.5,1l0,0.1
 	l-0.8,0L381.4,401.9z M347.4,372.6l-0.2-0.1l0-0.7l0.6-0.8l1,1.1L347.4,372.6z"/>
-<circle id="canberra" class="st8" cx="393.4" cy="298.3" r="2.5" onclick="weatherCheck(-35.282001,149.128998)"/>
-<circle id="sydney" class="st8" cx="414.4" cy="282.2" r="2.5" onclick="weatherCheck(-33.865143,151.209900)"/>
-<circle id="melbourne" class="st8" cx="349.6" cy="333.3" r="2.5" onclick="weatherCheck(-37.840935,144.946457)"/>
-<circle id="brisbane" class="st8" cx="435.4" cy="197" r="2.5" onclick="weatherCheck(-27.470125, 153.021072)"/>
-<circle id="adelaide" class="st8" cx="280.2" cy="299.4" r="2.5"  onclick="weatherCheck(-34.921230, 138.599503)"/>
-<circle id="hobart" class="st8" cx="376" cy="404.4" r="2.5" onclick="weatherCheck(-42.880554, 147.324997)"/>
-<circle id="perth" class="st8" cx="32.6" cy="260.5" r="2.5" onclick="weatherCheck(-31.953512, 115.857048)"/>
-<circle id="darwin" class="st8" cx="195.2" cy="24.4" r="2.5" onclick="weatherCheck(-12.462827, 130.841782)"/>
+<circle id="canberra" class="st8" cx="393.4" cy="298.3" r="2.5" onclick="locationSearch('canberra')"/>
+<circle id="sydney" class="st8" cx="414.4" cy="282.2" r="2.5" onclick="locationSearch('sydney')"/>
+<circle id="melbourne" class="st8" cx="349.6" cy="333.3" r="2.5" onclick="locationSearch('melbourne')"/>
+<circle id="brisbane" class="st8" cx="435.4" cy="197" r="2.5" onclick="locationSearch('brisbane')"/>
+<circle id="adelaide" class="st8" cx="280.2" cy="299.4" r="2.5"  onclick="locationSearch('adelaide')"/>
+<circle id="hobart" class="st8" cx="376" cy="404.4" r="2.5" onclick="locationSearch('hobart')"/>
+<circle id="perth" class="st8" cx="32.6" cy="260.5" r="2.5" onclick="locationSearch('perth')"/>
+<circle id="darwin" class="st8" cx="195.2" cy="24.4" r="2.5" onclick="locationSearch('darwin')"/>
 </svg>

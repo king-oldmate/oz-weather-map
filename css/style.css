@@ -2,3 +2,16 @@
     width: 80%;
     margin: auto auto;
 }
+
+#box{
+    border: 2px solid black;
+}
+.relative{
+    position: relative;
+}
+.absolute{
+    position: absolute;
+}
+.hidden{
+    display: none;
+}
